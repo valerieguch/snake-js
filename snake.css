@@ -1,0 +1,13 @@
+canvas{
+	display: block;
+	margin: 0 auto;
+}
+
+
+
+.score{
+	text-align: center;
+	font-size: 50px;
+	font-weight: 300;
+
+}
